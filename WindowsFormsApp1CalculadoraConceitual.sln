@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1CalculadoraConceitual", "WindowsFormsApp1CalculadoraConceitual\WindowsFormsApp1CalculadoraConceitual.csproj", "{C70790EB-1AB2-4265-A7E7-EB7BD8D28517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70790EB-1AB2-4265-A7E7-EB7BD8D28517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70790EB-1AB2-4265-A7E7-EB7BD8D28517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70790EB-1AB2-4265-A7E7-EB7BD8D28517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70790EB-1AB2-4265-A7E7-EB7BD8D28517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD53FA6-5688-4F7E-87F3-BBAA4A0E6D70}
+	EndGlobalSection
+EndGlobal
